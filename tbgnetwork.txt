@@ -1,5 +1,5 @@
 {"nodes":[
-#Hymenoptera
+
 {"name":"Lassioglossum_spp."},
 {"name":"Andreba_spp."},
 {"name":"Apis_mellifera"},
@@ -35,7 +35,7 @@
 {"name":"orange_sawfly"},
 {"name":"whitefoot_sawafly"},
 {"name":"Arge_similis"},
-#Lepdioptera
+
 {"name":"Pieris_rapae"},
 {"name":"Eurema_alitha"},
 {"name":"Catopsilia_pyranthe"},
@@ -58,7 +58,7 @@
 {"name":"Suastus_gremius"},
 {"name":"Ampittia_dioscorides"},
 {"name":"Milionia_basalis"},
-#Diptera
+
 {"name":"Episyrphus_spp."},
 {"name":"Eristalinus_spp."},
 {"name":"Melanostoma_spp."},
@@ -67,7 +67,7 @@
 {"name":"Asarkina_spp."},
 {"name":"Monoceromyia_spp."},
 {"name":"Mallota_curvigaster"},
-#plants
+
 {"name":"Youngia_japonica"},
 {"name":"Ixeris_strigosa"},
 {"name":"Duchesnea_indica"},
