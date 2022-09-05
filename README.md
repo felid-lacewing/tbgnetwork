@@ -34,7 +34,7 @@
 {"name":"orange_sawfly"},
 {"name":"whitefoot_sawafly"},
 {"name":"Arge_similis"},
-#Lepdioptera
+
 {"name":"Pieris_rapae"},
 {"name":"Eurema_alitha"},
 {"name":"Catopsilia_pyranthe"},
